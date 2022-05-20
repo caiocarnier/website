@@ -1,7 +1,7 @@
 .nav{
 font-size: 25px;
 padding: 80px;
-background-color: black;
+background-color: rgb(209, 11, 127);
 
 }
 
@@ -45,11 +45,47 @@ margin-top: 80px;
     text-align: center;
     font-size: 20px;
     margin-left: -40px;
-    color: #000;
-    font-
+    color: white;
     
 }
 
 .gt{
-    background-image: url(../img/icons-390.jpg)
+    background-color:#cc4cac ;
+    margin-top: 600px;
+}
+
+
+.back{
+background-image:url(../img/ping\ ppng.webp);
+
+}
+
+.container-fluid{
+    background-color: #d04cac;;
+}
+.card{
+    margin-top: -400px;
+}
+.card-body{
+    background-color: #767eff;
+}
+.gelson{
+   margin-left: 30px;
+   margin-top: 60px;
+}
+.pp{
+    margin-left: 250px;
+    margin-top: -170px;
+}
+.paragrafo{
+    text-align: center;
+    margin-top: -100px;
+}
+.hj{
+    text-align: center;
+    margin-top: -5px;
+}
+.hj2{
+    text-align: center;
+    margin-top: 3px;
 }
